@@ -3,9 +3,9 @@
  - Birthday: 88/02/04
  - Education: 元智大學資訊管理學系
  - Personal Website: 
- - Location: 
- - E-Mail: 
- - Mobile: 
+ - Location: 桃園市龍潭區
+ - E-Mail: st94060123@gmail.com
+ - Mobile: 0919285064
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99singying&show_icons=true&theme=radical)
  
